@@ -1,8 +1,0 @@
-Target dependency graph (5 targets)
-Target 'Pre-WorkUITests' in project 'Pre-Work' (no dependencies)
-Target 'Pre-WorkUITests' in project 'Pre-Work'
-➜ Explicit dependency on target 'Pre-Work' in project 'Pre-Work'
-Target 'Pre-WorkUITests' in project 'Pre-Work'
-➜ Explicit dependency on target 'Pre-Work' in project 'Pre-Work'
-Target 'Pre-Work' in project 'Pre-Work' (no dependencies)
-Target 'Pre-Work' in project 'Pre-Work' (no dependencies)
