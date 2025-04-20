@@ -1,0 +1,10 @@
+version: "Apple Swift version 6.0 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)"
+options: "ead65d3eb8feb0f2d1ff05a5bf5da19f1691891f3def3ebfd05e09dfa755f06c"
+build_start_time: [1745117051, 622098000]
+build_end_time: [1745117053, 896543000]
+inputs:
+  ? "/Users/jenniferyamashita/Desktop/Prework/Pre-Work/DerivedData/Pre-Work/Index.noindex/Build/Intermediates.noindex/Pre-Work.build/Debug-iphoneos/Pre-Work.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1745117051, 568375656]
+  "/Users/jenniferyamashita/Desktop/Prework/Pre-Work/Pre-Work/AppDelegate.swift": [1745117036, 882579802]
+  "/Users/jenniferyamashita/Desktop/Prework/Pre-Work/Pre-Work/SceneDelegate.swift": [1745117036, 884313744]
+  "/Users/jenniferyamashita/Desktop/Prework/Pre-Work/Pre-Work/ViewController.swift": [1745117036, 884925905]

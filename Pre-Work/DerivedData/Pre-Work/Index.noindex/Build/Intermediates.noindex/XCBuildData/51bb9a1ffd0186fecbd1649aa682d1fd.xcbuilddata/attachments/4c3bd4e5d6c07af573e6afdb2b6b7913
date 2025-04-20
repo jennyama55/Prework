@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/jenniferyamashita/Desktop/Prework/Pre-Work/DerivedData/Pre-Work/Index.noindex/Build/Intermediates.noindex/Pre-Work.build/Debug-iphonesimulator/Pre-WorkUITests.build/Objects-normal/arm64/Pre-WorkUITests-master.d",
+    "diagnostics" : "/Users/jenniferyamashita/Desktop/Prework/Pre-Work/DerivedData/Pre-Work/Index.noindex/Build/Intermediates.noindex/Pre-Work.build/Debug-iphonesimulator/Pre-WorkUITests.build/Objects-normal/arm64/Pre-WorkUITests-master.dia",
+    "emit-module-dependencies" : "/Users/jenniferyamashita/Desktop/Prework/Pre-Work/DerivedData/Pre-Work/Index.noindex/Build/Intermediates.noindex/Pre-Work.build/Debug-iphonesimulator/Pre-WorkUITests.build/Objects-normal/arm64/Pre-WorkUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jenniferyamashita/Desktop/Prework/Pre-Work/DerivedData/Pre-Work/Index.noindex/Build/Intermediates.noindex/Pre-Work.build/Debug-iphonesimulator/Pre-WorkUITests.build/Objects-normal/arm64/Pre-WorkUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jenniferyamashita/Desktop/Prework/Pre-Work/DerivedData/Pre-Work/Index.noindex/Build/Intermediates.noindex/Pre-Work.build/Debug-iphonesimulator/Pre-WorkUITests.build/Objects-normal/arm64/Pre-WorkUITests-master.swiftdeps"
+  },
+  "/Users/jenniferyamashita/Desktop/Prework/Pre-Work/Pre-WorkUITests/Pre_WorkUITests.swift" : {
+
+  },
+  "/Users/jenniferyamashita/Desktop/Prework/Pre-Work/Pre-WorkUITests/Pre_WorkUITestsLaunchTests.swift" : {
+
+  }
+}
